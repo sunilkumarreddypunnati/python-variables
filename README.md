@@ -5,31 +5,44 @@ Welcome to my Python fundamentals practice repository! This repository emphasize
 
 ---
 
-## 📂 Tasks Included
+## 📂 Tasks Included  
 
 | 🧪 Task | 📄 Description |
-|--------|----------------|
-| `task 1.py` | ➕ Simple calculator using arithmetic operations |
-| `task 2.py` | 🔄 Type conversion: string → int → float |
-| `task 3.py` | ⚪ Circle area & perimeter calculation |
-| `task 4.py` | 🔧 Step-by-step variable updates |
-| `task 5.py` | 🎓 Student info formatting |
-| `task 6.py` | 🌡️ Celsius to Fahrenheit converter |
-| `task 7.py` | 💰 Compound interest calculator |
+|---------|----------------|
+| [task1.py](./task1.py) | ➕ Simple calculator using arithmetic operations |
+| [task2.py](./task2.py) | 🔄 Type conversion: string → int → float |
+| [task3.py](./task3.py) | ⚪ Circle area & perimeter calculation |
+| [task4.py](./task4.py) | 🔧 Step-by-step variable updates |
+| [task5.py](./task5.py) | 🎓 Student info formatting |
+| [task6.py](./task6.py) | 🌡️ Celsius → Fahrenheit converter |
+| [task7.py](./task7.py) | 💰 Compound interest calculator |
 
 ---
-## 📸 Sample Outputs
 
-| Task | Output |
-|------|--------|
-| ➕ Task 1 | *Task 1 Output Screenshot* |
-| 🔄 Task 2 | *Task 2 Output Screenshot* |
-| ⚪ Task 3 | *Task 3 Output Screenshot* |
-| 🔧 Task 4 | *Task 4 Output Screenshot* |
-| 🎓 Task 5 | *Task 5 Output Screenshot* |
-| 🌡️ Task 6 | *Task 6 Output Screenshot* |
-| 💰 Task 7 | *Task 7 Output Screenshot* |
+## 📸 Sample Outputs  
 
+### ➕ Task 1: Simple Calculator  
+[<img src="Screenshot%202025-08-29%20133926.png" width="400">](Screenshot%202025-08-29%20133926.png)  
+
+### 🔄 Task 2: Type Conversion  
+[<img src="Screenshot%202025-08-29%20133945.png" width="400">](Screenshot%202025-08-29%20133945.png)  
+
+### ⚪ Task 3: Circle Area & Perimeter  
+[<img src="Screenshot%202025-08-29%20134008.png" width="400">](Screenshot%202025-08-29%20134008.png)  
+
+### 🔧 Task 4: Variable Updates  
+[<img src="Screenshot%202025-08-29%20134022.png" width="400">](Screenshot%202025-08-29%20134022.png)  
+
+### 🎓 Task 5: Student Info Formatting  
+[<img src="Screenshot%202025-08-29%20134047.png" width="400">](Screenshot%202025-08-29%20134047.png)  
+
+### 🌡️ Task 6: Celsius → Fahrenheit Converter  
+[<img src="Screenshot%202025-08-29%20134254.png" width="400">](Screenshot%202025-08-29%20134254.png)  
+
+### 💰 Task 7: Compound Interest Calculator  
+[<img src="Screenshot%202025-08-29%20134314.png" width="400">](Screenshot%202025-08-29%20134314.png)  
+
+---
 ---
 
 ## ✅ Skills Practiced
