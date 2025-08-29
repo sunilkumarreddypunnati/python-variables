@@ -18,6 +18,30 @@ Welcome to my Python fundamentals practice repository! This repository emphasize
 | `task 7.py` | 💰 Compound interest calculator |
 
 ---
+## 📸 Sample Outputs  
+
+### ➕ Task 1: Simple Calculator  
+[![Task 1 Output](Screenshot%202025-08-29%20133926.png)](Screenshot%202025-08-29%20133926.png)  
+
+### 🔄 Task 2: Type Conversion  
+[![Task 2 Output](Screenshot%202025-08-29%20133945.png)](Screenshot%202025-08-29%20133945.png)  
+
+### ⚪ Task 3: Circle Area & Perimeter  
+[![Task 3 Output](Screenshot%202025-08-29%20134008.png)](Screenshot%202025-08-29%20134008.png)  
+
+### 🔧 Task 4: Variable Updates  
+[![Task 4 Output](Screenshot%202025-08-29%20134022.png)](Screenshot%202025-08-29%20134022.png)  
+
+### 🎓 Task 5: Student Info Formatting  
+[![Task 5 Output](Screenshot%202025-08-29%20134047.png)](Screenshot%202025-08-29%20134047.png)  
+
+### 🌡️ Task 6: Celsius → Fahrenheit Converter  
+[![Task 6 Output](Screenshot%202025-08-29%20134254.png)](Screenshot%202025-08-29%20134254.png)  
+
+### 💰 Task 7: Compound Interest Calculator  
+[![Task 7 Output](Screenshot%202025-08-29%20134314.png)](Screenshot%202025-08-29%20134314.png)  
+
+---
 
 ## ✅ Skills Practiced
 
