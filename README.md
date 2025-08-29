@@ -1,11 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Python Variables Practice" width="800">
+</p>
 # 🧠 Python Variables Practice Tasks  
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  
-![GitHub stars](https://img.shields.io/github/stars/sunilkumarreddypunnati/python-variables?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/sunilkumarreddypunnati/python-variables?style=social)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sunilkumarreddypunnati/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sunilkumarreddypunnati)  
-
+ 
 Welcome to my Python fundamentals practice repository! This repository emphasizes the foundational role of variables in Python programming. Each task demonstrates how variables are declared, updated, and used to store and manipulate data across different contexts — from simple arithmetic to real-world applications like temperature conversion and financial calculations. By practicing variable usage in isolation and in combination with other concepts, this collection builds a strong base for writing clean, efficient, and scalable Python code
 
 
