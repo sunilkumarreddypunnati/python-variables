@@ -5,17 +5,16 @@ Welcome to my Python fundamentals practice repository! This repository emphasize
 
 ---
 
-## 📂 Tasks Included  
-
-| 🧪 Task | 📄 Description |
-|---------|----------------|
-| [task1.py](./task1.py) | ➕ Simple calculator using arithmetic operations |
-| [task2.py](./task2.py) | 🔄 Type conversion: string → int → float |
-| [task3.py](./task3.py) | ⚪ Circle area & perimeter calculation |
-| [task4.py](./task4.py) | 🔧 Step-by-step variable updates |
-| [task5.py](./task5.py) | 🎓 Student info formatting |
-| [task6.py](./task6.py) | 🌡️ Celsius → Fahrenheit converter |
-| [task7.py](./task7.py) | 💰 Compound interest calculator |
+📂 Tasks Included  
+🧪 Task | 📄 Description | 📷 Output  
+---|---|---  
+[task 1.py](./task%201.py) | ➕ Simple calculator using arithmetic operations | ![Task 1](./Screenshot%202025-08-29%20133926.png)  
+[task 2.py](./task%202.py) | 🔄 Type conversion: string → int → float | ![Task 2](./Screenshot%202025-08-29%20133945.png)  
+[task 3.py](./task%203.py) | ⚪ Circle area & perimeter calculation | ![Task 3](./Screenshot%202025-08-29%20134008.png)  
+[task 4.py](./task%204.py) | 🔧 Step-by-step variable updates | ![Task 4](./Screenshot%202025-08-29%20134022.png)  
+[task 5.py](./task%205.py) | 🎓 Student info formatting | ![Task 5](./Screenshot%202025-08-29%20134047.png)  
+[task 6.py](./task%206.py) | 🌡️ Celsius to Fahrenheit converter | ![Task 6](./Screenshot%202025-08-29%20134254.png)  
+[task 7.py](./task%207.py) | 💰 Compound interest calculator | ![Task 7](./Screenshot%202025-08-29%20134314.png)  
 
 ---
 
